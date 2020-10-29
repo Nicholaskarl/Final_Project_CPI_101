@@ -50,3 +50,8 @@ body {
   cursor: pointer;
   outline: none;
 }
+
+#signuplink{
+	color: black;
+	font-size: 30px;
+}
