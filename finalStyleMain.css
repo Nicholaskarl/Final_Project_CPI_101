@@ -7,3 +7,28 @@ h1{
 	font-style: sans-serif;
 	color:#663399;
 }
+ 
+.box{
+	background-color: #663399;
+	left:600px;
+   	width: 700px;
+	height: 700px;
+	top: 50px;
+   	padding: 20px;
+	position:relative;
+}
+
+#topText{
+	color:black;
+	font-size:30px;
+}
+.Text{
+	position:relative;
+	background-color:lightblue;
+}
+
+.sidebar{
+	position:relative;
+	bottom:750px;
+	
+}
